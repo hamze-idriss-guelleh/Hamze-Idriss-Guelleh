@@ -20,7 +20,7 @@ Diplômé de l'**Université de Djibouti** (Licence Informatique, 2026), je mets
 
 ---
 
-## 🚀 Projet phare
+## 🚀 Projets sélectionnés
 
 ### 🎮 Jeu Mystère - Application Mobile
 **Projet Tutoré · Licence Informatique · Université de Djibouti**
@@ -32,10 +32,40 @@ Une version moderne et connectée du célèbre jeu du "Nombre Mystère", transfo
 *   **Technologies :** React Native, Expo, TypeScript, Socket.IO, Flask, SQLite.
 *   **Impact :** Ce projet m'a permis de maîtriser la communication temps réel, la gestion d'état complexe et le déploiement sur serveur.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/groupe-projet-tutore/jeu-mystere-mobile26">
     <img src="https://img.shields.io/badge/Voir_le_projet-181717?style=for-the-badge&logo=github&logoColor=white" alt="Voir le projet" />
   </a>
+</p>
+
+---
+
+### 🛡️ MiniSOC - Outil de Surveillance de Sécurité
+**Projet Personnel · Python**
+
+Un projet orienté cybersécurité visant à concevoir un mini-SOC (Security Operations Center) pour la surveillance et la détection d'événements de sécurité.
+
+*   **Objectif :** Comprendre les mécanismes de détection d'intrusion et de journalisation.
+*   **Technologies :** Python, Analyse de logs, Concepts Réseaux.
+*   **Statut :** 🔧 En cours de finalisation (derniers tests)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/En_cours_de_finalisation-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="En cours" />
+</p>
+
+---
+
+### 📊 Scoring Credit AI - Analyse de Données
+**Projet Personnel · Python**
+
+Un projet explorant le scoring de crédit et l'analyse de données pour comprendre les mécanismes de décision automatisée.
+
+*   **Objectif :** Manipuler des données, appliquer des algorithmes de scoring et visualiser les résultats.
+*   **Technologies :** Python, Data Analysis, Algorithmique.
+*   **Statut :** 🔧 En cours de finalisation (dernier module + tests)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/En_cours_de_finalisation-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="En cours" />
 </p>
 
 ---
