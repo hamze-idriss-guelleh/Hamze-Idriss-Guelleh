@@ -14,10 +14,7 @@
 
 ## 🧠 Mon approche
 
-Je suis un développeur passionné par la **construction de systèmes fiables** et la **compréhension des infrastructures** qui les supportent. Mon parcours est guidé par une conviction : un bon développeur ne se contente pas d'écrire du code, il comprend comment ce code interagit avec les réseaux, les systèmes et la sécurité.
-
-Diplômé de l'**Université de Djibouti** (Licence Informatique, 2026), je mets aujourd'hui mes compétences au service de **Kyronet** en tant que Développeur Full Stack, tout en préparant mon entrée en Master **Réseaux & Cybersécurité**.
-
+**Licencié en Informatique** de l'**Université de Djibouti** (2026), je suis actuellement **Développeur Full Stack** chez **Kyronet**. Passionné par les **systèmes** et les **réseaux**, je prépare mon entrée en **Master Réseaux & Cybersécurité** avec pour objectif de concevoir des **infrastructures fiables et sécurisées**.
 ---
 
 ## 🚀 Projets sélectionnés
