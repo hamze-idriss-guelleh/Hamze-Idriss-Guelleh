@@ -15,6 +15,7 @@
 ## 🧠 Mon approche
 
 **Licencié en Informatique** de l'**Université de Djibouti** (2026), je suis actuellement **Développeur Full Stack** chez **Kyronet**. Passionné par les **systèmes** et les **réseaux**, je prépare mon entrée en **Master Réseaux & Cybersécurité** avec pour objectif de concevoir des **infrastructures fiables et sécurisées**.
+
 ---
 
 ## 🚀 Projets sélectionnés
