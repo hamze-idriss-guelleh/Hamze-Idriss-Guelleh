@@ -55,20 +55,37 @@ Je participe au cycle complet de développement d'applications professionnelles 
 
 ## 🛠️ Compétences techniques
 
-**Développement Logiciel**
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### 💻 Développement Logiciel
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ⚛️ Frameworks & Bibliothèques
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Systèmes & Réseaux**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🗄️ Bases de Données
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🌐 Systèmes, Réseaux & Sécurité
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white)
+![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0052CC?style=flat-square&logo=letsencrypt&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6B6B?style=flat-square&logo=cloudflare&logoColor=white)
 
-**Cybersécurité (En apprentissage)**
-![Sécurité Réseau](https://img.shields.io/badge/Sécurité_Réseau-FF6B6B?style=flat-square)
-![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-FF6B6B?style=flat-square)
+### 📐 Méthodologie & Architecture
+![UML](https://img.shields.io/badge/UML-FF6B6B?style=flat-square)
+![MVC](https://img.shields.io/badge/Architecture_MVC-6DB33F?style=flat-square)
+![Cycle en V](https://img.shields.io/badge/Cycle_en_V-6DB33F?style=flat-square)
 
 ---
 
