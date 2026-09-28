@@ -126,14 +126,6 @@ Mention : Assez-Bien
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamze-idriss-guelleh&show_icons=true&theme=dark&locale=fr" alt="Statistiques GitHub" />
-</p>
-
----
-
 ## 📫 Me contacter
 
 <p align="center">
