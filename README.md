@@ -1,4 +1,4 @@
-<h1 align="center">Salut, je suis Hamza Idriss Guelleh 👋</h1>
+<h1 align="center">Salut, je suis Hamze Idriss Guelleh 👋</h1>
 <h3 align="center">Licencié en Informatique · Développeur Full Stack chez Kyronet · Aspirant Spécialiste Réseaux & Cybersécurité 🇩🇯</h3>
 
 <p align="center">
