@@ -70,7 +70,7 @@ Un projet explorant le scoring de crédit et l'analyse de données pour comprend
 
 ## 💼 Expérience professionnelle
 
-**Développeur Full Stack Intern** · **Kyronet** · *2025 - Aujourd'hui*
+**Développeur Full Stack Intern** · **Kyronet** · *2026 - Aujourd'hui*
 
 Je participe au cycle complet de développement d'applications professionnelles :
 - Modélisation de bases de données et architecture backend.
