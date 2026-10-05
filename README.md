@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Hamze Idriss Guelleh 👋</h1>
-<h3 align="center">Licencié en Informatique · Développeur Full Stack chez Kyronet · Aspirant Spécialiste Réseaux & Cybersécurité 🇩🇯</h3>
+<h3 align="center">Développeur Full Stack · Licencié en Informatique · Orienté Réseaux & Cybersécurité 🇩🇯</h3>
 
 <p align="center">
   <a href="https://github.com/hamze-idriss-guelleh">
@@ -10,18 +10,60 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://hamze-idriss-guelleh.kyronet.net">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 ---
 
 ## 🧠 Mon approche
 
-**Licencié en Informatique** de l'**Université de Djibouti** (2026), je suis actuellement **Développeur Full Stack** chez **Kyronet**. Passionné par les **systèmes** et les **réseaux**, je prépare mon entrée en **Master Réseaux & Cybersécurité** avec pour objectif de concevoir des **infrastructures fiables et sécurisées**.
+**Licencié en Informatique** de l'**Université de Djibouti** (2026), je conçois et mets en production des applications web, de la **base de données** jusqu'au **serveur**. Après six mois de stage comme **Développeur Full Stack** chez **Kyronet**, je me spécialise en **réseaux** et en **cybersécurité** : savoir comment une application est construite permet de comprendre où elle est vulnérable.
 
 ---
 
 ## 🚀 Projets sélectionnés
 
+### 🛡️ Mini-SOC - Centre de surveillance de sécurité
+**Projet Personnel · Août - Septembre 2026**
+
+Une plateforme qui collecte les journaux Linux (syslog), Windows (Event Log) et pare-feu, puis détecte les menaces et aide à traiter les incidents.
+
+*   **Détection :** Règles de seuil, de signature et de corrélation (brute force SSH, scan de ports, exfiltration), anomalies statistiques, cartographie MITRE ATT&CK et score de sévérité.
+*   **Fonctionnalités clés :** Tableau de bord temps réel (WebSocket), gestion des incidents, alertes email/SMS, rapports PDF.
+*   **Technologies :** Python, FastAPI, PostgreSQL, React.
+*   **Déploiement :** Serveur durci (TLS 1.3, Fail2ban, UFW, SSH par clé).
+
+<p align="left">
+  <a href="https://hamze-idriss-guelleh.kyronet.net/projets/mini-soc/">
+    <img src="https://img.shields.io/badge/Voir_le_projet-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le projet" />
+  </a>
+</p>
+
+---
+
+### 📊 Scoring Crédit IA - Scoring de crédit alternatif
+**Projet Personnel · Mars - Juillet 2026**
+
+Une plateforme qui évalue la solvabilité des personnes sans historique bancaire à partir de leurs transactions Mobile Money (D-Money, Waafi, CAC Mobile).
+
+*   **Modèles :** Régression logistique et XGBoost suivis avec MLflow, scores expliqués par SHAP, détection de fraude (Isolation Forest), audit de biais.
+*   **Applications :** Portail agent et console d'administration en React, application mobile pour l'emprunteur.
+*   **Technologies :** Python, FastAPI, XGBoost, React, React Native.
+*   **Déploiement :** Docker, Nginx, CI/CD avec GitHub Actions.
+
+<p align="left">
+  <a href="https://hamze-idriss-guelleh.kyronet.net/projets/scoring-credit-ia/">
+    <img src="https://img.shields.io/badge/Voir_le_projet-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le projet" />
+  </a>
+</p>
+
+---
+
 ### 🎮 Jeu Mystère - Application Mobile
-**Projet Tutoré · Licence Informatique · Université de Djibouti**
+**Projet Tutoré · Licence Informatique · Université de Djibouti · Février - Mai 2026**
 
 Une version moderne et connectée du célèbre jeu du "Nombre Mystère", transformée en une application mobile compétitive.
 
@@ -38,46 +80,49 @@ Une version moderne et connectée du célèbre jeu du "Nombre Mystère", transfo
 
 ---
 
-### 🛡️ MiniSOC - Outil de Surveillance de Sécurité
-**Projet Personnel · Python**
+### 🏨 HotelPro - Plateforme de gestion hôtelière
+**Projet Personnel · Mai - Juin 2026**
 
-Un projet orienté cybersécurité visant à concevoir un mini-SOC (Security Operations Center) pour la surveillance et la détection d'événements de sécurité.
+Une application web de gestion et de réservation hôtelière.
 
-*   **Objectif :** Comprendre les mécanismes de détection d'intrusion et de journalisation.
-*   **Technologies :** Python, Analyse de logs, Concepts Réseaux.
-*   **Statut :** 🔧 En cours de finalisation (derniers tests)
+*   **Fonctionnalités clés :** Suivi des chambres, réservations, clients et facturation, tableau de bord d'administration.
+*   **Technologies :** Laravel, MySQL, Bootstrap.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/En_cours_de_finalisation-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="En cours" />
+  <a href="https://hamze-idriss-guelleh.kyronet.net/projets/hotelpro/">
+    <img src="https://img.shields.io/badge/Voir_le_projet-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le projet" />
+  </a>
 </p>
 
 ---
 
-### 📊 Scoring Credit AI - Analyse de Données
-**Projet Personnel · Python**
+### ✉️ Serveur mail - Déploiement et sécurisation
+**Projet Personnel · Janvier - Mars 2026**
 
-Un projet explorant le scoring de crédit et l'analyse de données pour comprendre les mécanismes de décision automatisée.
+La mise en place complète d'un serveur de messagerie (SMTP/POP3/IMAP), du chiffrement jusqu'aux enregistrements DNS.
 
-*   **Objectif :** Manipuler des données, appliquer des algorithmes de scoring et visualiser les résultats.
-*   **Technologies :** Python, Data Analysis, Algorithmique.
-*   **Statut :** 🔧 En cours de finalisation (dernier module + tests)
+*   **Sécurité :** Chiffrement SSL/TLS, enregistrements MX, SPF, DKIM et DMARC.
+*   **Technologies :** HMailServer, SSL/TLS, DNS.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/En_cours_de_finalisation-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="En cours" />
+  <a href="https://hamze-idriss-guelleh.kyronet.net/projets/serveur-mail-securise/">
+    <img src="https://img.shields.io/badge/Voir_le_projet-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Voir le projet" />
+  </a>
 </p>
 
 ---
 
 ## 💼 Expérience professionnelle
 
-**Développeur Full Stack Intern** · **Kyronet** · *2026 - Aujourd'hui*
+**Stagiaire Développeur Full Stack** · **Kyronet** · *Avril - Octobre 2026 (6 mois)*
 
-Je participe au cycle complet de développement d'applications professionnelles :
-- Modélisation de bases de données et architecture backend.
-- Développement frontend et intégration d'interfaces.
-- Déploiement et mise en production.
+J'ai participé au cycle complet de développement d'applications livrées à des clients :
+- Développement et intégration d'applications web et mobiles (front-end et back-end).
+- Conception et gestion des bases de données.
+- Déploiement et mise en production sur serveur Linux (Nginx, HTTPS, pare-feu, sauvegardes).
+- Tests, débogage, documentation technique et revues de code.
 
-**Stack technique :** Laravel · React · Next.js · MongoDB
+**Stack technique :** Laravel · React · Next.js · Node.js · MySQL · MongoDB · Linux
 
 ---
 
@@ -97,15 +142,20 @@ Je participe au cycle complet de développement d'applications professionnelles 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Bases de Données
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🌐 Systèmes, Réseaux & Sécurité
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-0052CC?style=flat-square&logo=letsencrypt&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-FF6B6B?style=flat-square&logo=cloudflare&logoColor=white)
@@ -119,16 +169,21 @@ Je participe au cycle complet de développement d'applications professionnelles 
 
 ## 🎓 Formation
 
-**Licence en Informatique** · **Université de Djibouti** · *2025 - 2026*
+**Licence en Informatique** · **Université de Djibouti** · *2023 - 2026*
 Mention : Assez-Bien
 
-**Domaines étudiés :** Algorithmique, Programmation Orientée Objet, Bases de Données, Systèmes d'Exploitation, Réseaux Informatiques, Architecture Logicielle.
+**Domaines étudiés :** Algorithmique, Programmation Orientée Objet, Bases de Données, Systèmes d'Exploitation, Réseaux Informatiques, Intelligence Artificielle, Génie Logiciel.
+
+**Certification Pix** · *Juin 2025* · Niveau Indépendant 1
 
 ---
 
 ## 📫 Me contacter
 
 <p align="center">
+  <a href="https://hamze-idriss-guelleh.kyronet.net">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:hamzaguelleh2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
